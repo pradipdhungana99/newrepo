@@ -15,6 +15,7 @@ class Point {
         y = 12,
         z = 13;
 
+  // This is named constructor
   Point.clas()
       : a = 9,
         b = 8,
